@@ -3,7 +3,7 @@
 <p><em>Product Engineer at Columbia Daily Spectator<a href="https://www.columbiaspectator.com/"></a>
 </em></p>
 
-[![Linkedin: carolinehaoud](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-haoud/)](https://www.linkedin.com/in/caroline-haoud/)
+[![Linkedin: carolinehaoud](https://img.shields.io/badge/-carolinehaoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-haoud/)](https://www.linkedin.com/in/caroline-haoud/)
 
 
 A little more about me...  
