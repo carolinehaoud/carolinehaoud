@@ -1,7 +1,7 @@
 <h2> Hi, I'm Caroline! </h2>
 <img align='right' src="https://media1.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif?cid=790b7611e7562db4f680611a56e95f7806bf246fd10fb65d&rid=giphy.gif&ct=s" width="230">
 
-<p><em>Neuroscience + Computer Science student @ Columbia University | Product Engineer at Columbia Daily Spectator 
+<p><em>Neuroscience + Computer Science student @ Columbia University | Product Engineering Associate  at Columbia Daily Spectator 
   <a href="https://www.columbiaspectator.com/"></a>
 </em></p>
 
