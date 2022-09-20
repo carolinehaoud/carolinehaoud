@@ -12,6 +12,6 @@ A little more about me...
 const caroline = {
   pronouns: "she" | "her",
   code: [Python, Java, C, HTML, CSS],
-  tools: [React, Node.js, Mongo.db, Docker],
+  tools: [React, Node, Mongo, Docker, Git],
 }
 ```
