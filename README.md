@@ -10,7 +10,7 @@ A little more about me...
 
 ```javascript
 const caroline = {
-  pronouns: "she" | "her",
+  pronouns: "she" | "her" | "hers",
   code: [Python, Java, C, HTML, CSS],
   tools: [React, Node, Mongo, Docker, Git],
 }
