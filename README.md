@@ -16,6 +16,6 @@ A little more about me...
 const carolineHaoud = {
   pronouns: "she" | "her" | "hers",
   code: [Python, Java, C, Javascript, HTML, CSS],
-  tools: [React, Node, Mongo, Docker, Git],
+  tools: [React, Node, Mongo, Git],
 }
 ```
