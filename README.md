@@ -4,7 +4,7 @@
 <p><em>Neuroscience + Computer Science student @ Columbia University </em></p>
 <p><em>Research Assistant @ Columbia University Zuckerman Institute Center for Theoretical Neuroscience </em></p>
 <!-- <p><em>Machine Learning Safety Scholar @ Center for AI Safety </em></p> -->
-:computer: <p><em>Associate Software Engineering Developer @ Columbia Daily Spectator </em></p>
+<p><em>:computer: Associate Software Engineering Developer @ Columbia Daily Spectator </em></p>
 <!-- <p><em>Full Stack Developer Student @ Reskill Americans </em></p> -->
 
 [![Linkedin: carolinehaoud](https://img.shields.io/badge/-carolinehaoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-haoud/)](https://www.linkedin.com/in/caroline-haoud/)
