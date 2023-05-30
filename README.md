@@ -3,6 +3,7 @@
 
 <p>:mortar_board: Neuroscience + Computer Science student @ Columbia University</p>
 <p>:robot: Fellow @ Cornell Tech Break Through Tech AI</p>
+<p>:computer: 2023 Summer Intern @ Microsoft</p>
 <!-- <p>:brain: Research Assistant @ Columbia University Zuckerman Institute Center for Theoretical Neuroscience</p> -->
 <!-- <p><em>Machine Learning Safety Scholar @ Center for AI Safety </em></p> -->
 <p>:computer: Engineering Manager @ Columbia Daily Spectator</p>
