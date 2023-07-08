@@ -17,7 +17,7 @@ A little more about me...
 const carolineHaoud = {
   pronouns: "she" | "her" | "hers",
   code: [Python, React, React Native, Java, C, JavaScript, HTML, CSS],
-  tools: [Node, Git],
+  tools: [Node, Git, VSCode, Figma],
 }
 ```
 
