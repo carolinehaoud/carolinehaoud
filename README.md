@@ -8,7 +8,7 @@
 <!-- <p><em>Machine Learning Safety Scholar @ Center for AI Safety </em></p> -->
 <p>:computer: Engineering Manager @ Columbia Daily Spectator</p>
 
-[![Linkedin: carolinehaoud](https://img.shields.io/badge/-carolinehaoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-haoud/)](https://www.linkedin.com/in/caroline-haoud/)
+[![Linkedin: carolinehaoud](https://img.shields.io/badge/-carolinehaoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinehaoud/)](https://www.linkedin.com/in/carolinehaoud/)
 
 
 A little more about me...  
