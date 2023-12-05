@@ -6,6 +6,8 @@
 <p>:computer: Engineering Manager and Software Engineer @ Columbia Daily Spectator</p>
 <p>:robot: Fellow @ Cornell Tech Break Through Tech AI</p>
 <p>:robot: Break Through Tech AI Intern @ Accenture </p>
+<p>:computer: University Scholar @ NielsonIQ</p>
+
 <!-- <p>:brain: Research Assistant @ Columbia University Zuckerman Institute Center for Theoretical Neuroscience</p> -->
 <!-- <p><em>Machine Learning Safety Scholar @ Center for AI Safety </em></p> -->
 
