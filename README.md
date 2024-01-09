@@ -3,7 +3,7 @@
 
 <p>:mortar_board: Computer Science @ Columbia University</p>
 <!-- <p>:computer: 2023 New Technologists Intern @ Microsoft x Cyborg Mobile </p> -->
-<p>:computer: Engineering Manager and Software Engineer @ Columbia Daily Spectator</p>
+<p>:computer: Senior Engineering Manager and Software Engineer @ Columbia Daily Spectator</p>
 <p>:robot: Fellow @ Cornell Tech Break Through Tech AI</p>
 <!-- <p>:robot: Break Through Tech AI Intern @ Accenture </p> -->
 <!-- <p>:computer: University Scholar @ NielsonIQ</p> -->
