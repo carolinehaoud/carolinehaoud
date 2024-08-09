@@ -14,8 +14,9 @@ A little more about me...
 ```javascript
 const carolineHaoud = {
   pronouns: "she" | "her" | "hers",
-  code: [Python, React, React Native, Java, C, JavaScript, HTML, CSS],
+  code: [Python, Java, C#, React, React Native, JavaScript, HTML, CSS],
   tools: [Node, Git, VSCode, Figma],
+  environments: [Docker, Linux]
 }
 ```
 
