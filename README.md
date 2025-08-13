@@ -7,8 +7,10 @@ A little more about me...  
 
 ```javascript
 const carolineHaoud = {
-  pronouns: "she" | "her" | "hers",
-  code: [Python, Java, C#, React, React Native, JavaScript, HTML, CSS, SQL, Pandas, NumPy, Keras, TensorFlow],
-  tools: [Node, Git, VSCode, Figma, IntelliJ],
-  environments: [Docker, Linux, PyCharm, Visual Studio, Jupyter]
+  Pronouns: "she" | "her" | "hers",
+  Languages: [Python, Java, C#, React, React Native, JavaScript, HTML, CSS, SQL],
+  Python libraries: [pandas, NumPy, TensorFlow, Matplotlib, Statsmodels]
+  JavaScript libraries: [D3.js, Pixi.js]
+  Tools: [Node, Git, VSCode, Figma, IntelliJ],
+  Environments: [Docker, Linux, PyCharm, Visual Studio, Jupyter Notebook]
 }
