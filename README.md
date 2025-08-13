@@ -10,7 +10,7 @@ A little more about me...  
 const carolineHaoud = {
   pronouns: "she" | "her" | "hers",
   languages: [Python, Java, C#, JavaScript, HTML, CSS, SQL, R],
-  frameworks: [React, React Native, Node.js, D3.js],
-  libraries: [Pandas, NumPy, Scikit-learn, StatsModels, PyTorch],
-  developerTools: [Git, GitHub, Docker, Azure, Azure DevOps, Azure Key Vault, MongoDB, Jira],
+  frameworks: [React, React Native, Node.js, D3.js, Pixi.js],
+  libraries: [Pandas, NumPy, Scikit-learn, StatsModels, PyTorch, Keras],
+  developerTools: [Git, GitHub, Docker, Azure],
 }
