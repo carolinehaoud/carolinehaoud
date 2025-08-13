@@ -2,7 +2,6 @@
 <p>:mortar_board: Computer Science @ Columbia University</p>
 [![Linkedin: carolinehaoud](https://img.shields.io/badge/-carolinehaoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinehaoud/)](https://www.linkedin.com/in/carolinehaoud/)
 
-
 A little more about me...  
 
 ```javascript
