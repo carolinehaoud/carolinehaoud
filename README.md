@@ -12,5 +12,5 @@ const carolineHaoud = {
   languages: [Python, Java, C#, JavaScript, HTML, CSS, SQL, R],
   frameworks: [React, React Native, Node.js, D3.js, Pixi.js],
   libraries: [Pandas, NumPy, Networkx, Scikit-learn, StatsModels, PyTorch, Keras],
-  developerTools: [Git, GitHub, Docker, Azure]
+  developerTools: [Anaconda, Git, GitHub, Docker, Azure]
 }
