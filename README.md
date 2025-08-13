@@ -9,8 +9,8 @@ A little more about me...  
 ```javascript
 const carolineHaoud = {
   pronouns: "she" | "her" | "hers",
-  languages: [Python, Java, C#, JavaScript, HTML, CSS, SQL, R],
+  languages: [Python, Java, C#, JavaScript, HTML, CSS, SQL],
   frameworks: [React, React Native, Node.js, D3.js, Pixi.js],
-  libraries: [Pandas, NumPy, Networkx, Scikit-learn, StatsModels, PyTorch, Keras],
+  libraries: [Pandas, NumPy, Networkx, Scikit-learn, StatsModels, PyTorch, Keras, NLTK],
   developerTools: [Anaconda, Git, GitHub, Docker, Azure]
 }
