@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I'm Caroline! </h2>
 <p>:mortar_board: Computer Science @ Columbia University</p>
 <a href="https://www.linkedin.com/in/carolinehaoud/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="carolinehaoud">
 </a>
 
 A little more about me...  
